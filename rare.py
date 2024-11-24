@@ -104,7 +104,7 @@ def create_inline_keyboard():
     )
     button5 = types.InlineKeyboardButton(
         text="💀 𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗦𝗖𝗔𝗠𝗠𝗘𝗥𝗦 𝗛𝗘𝗟𝗟 💀", 
-        url="https://t.me/RGSCAMMERSHELL"
+        url="https://t.me/RARESCAMMERSHELL"
     )
 
     # Add the buttons to the markup (can add buttons in different rows)
